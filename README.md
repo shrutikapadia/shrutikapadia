@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **I'm always hungry**, **Hunger To travel 😁**, **I'm funny HAHA 😜**, **Passionate about life & always up for taking on news skills & adventure**
 <br>
-<h1>My Social Media Handles</h1>
+<h1>Social and Coding platform</h1>
 
 <div id="badges" align="left">
   <img align="left" width="400" height="300" src="https://github.com/shrutikapadia/shrutikapadia/blob/main/giphy.gif">
