@@ -22,7 +22,7 @@
 
 <div id="badges" align="left">
   <img align="left" width="270" src="https://github.com/shrutikapadia/shrutikapadia/blob/main/image_processing20210911-29373-1r7yggl.gif">
-  <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
+ <div align="center"> <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
   <a href="https://www.pinterest.ca/shrutikapadia30/">
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white alt="Twitter Badge"/>
   </a><br>
    
-  
+  </div>
 </div>
 
 <h1>Skills and Technologies</h1>
