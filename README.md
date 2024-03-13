@@ -34,7 +34,7 @@
   <a href="instagram">
     <img width="150" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a><br>
-  <a href="LeetCode">
+  <a href="https://leetcode.com/shrutikapadia30/">
     <img width="150" height="40" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
   <a href="Twitter">
