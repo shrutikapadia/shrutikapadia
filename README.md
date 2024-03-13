@@ -19,7 +19,9 @@
 - ⚡ Fun fact: **I'm always hungry**, **Hunger To travel 😁**, **I'm funny HAHA 😜**, **Passionate about life & always up for taking on news skills & adventure**
 
 <h1>My Social Media Handles</h1>
+
 <div id="badges" align="left">
+  <img src="https://cdn.dribbble.com/users/1079085/screenshots/5265203/media/ba8adebb47410c21bfa085b339004354.gif">
   <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -38,8 +40,12 @@
   <a href="Twitter">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white alt="Twitter Badge"/>
   </a>
+    <a href="blah">
+   <img src="">
+    </a>
+  
 </div>
 
 <h1>Skills and Technologies</h1>
 
-<
+
