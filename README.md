@@ -21,28 +21,26 @@
 <h1>My Social Media Handles</h1>
 
 <div id="badges" align="left">
-  <img src="https://cdn.dribbble.com/users/1079085/screenshots/5265203/media/ba8adebb47410c21bfa085b339004354.gif">
+  <img align="left" width="270" src="https://github.com/shrutikapadia/Shruti-K/blob/main/image_processing20210911-29373-1r7yggl.gif">
   <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br>
   <a href="https://www.pinterest.ca/shrutikapadia30/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" width="100" height="28" alt="Pinterest Badge"/>
-  </a>
+  </a><br>
   <a href="instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a><br>
   <a href="LeetCode">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
+  </a><br>
   <a href="Twitter">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt="Twitter Badge"/>
-  </a>
+  </a><br>
   <a href="Twitter">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white alt="Twitter Badge"/>
-  </a>
-    <a href="blah">
-   <img src="">
-    </a>
+  </a><br>
+   
   
 </div>
 
