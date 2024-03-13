@@ -1,11 +1,12 @@
-<h1 align="center">Welcome to my GitHub Portfolio </h1>
+<h1 align="left">Welcome to my GitHub Portfolio </h1>
 
 <div id="header" align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%" height="200">
 </div>
+<br>
 
 
-<h3 style="font-family:verdana" align="left" style="font-size: 30">Heyyy there 👋 , I'm Shruti ..... </h3>
+<h1 align="left" >Heyyy  👋 , I'm Shruti ..... </h1>
 <h3 align="left">A Passionate Consultant and FrontEnd Developer 👩‍💻</h3>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
@@ -17,7 +18,7 @@
 - 📫 Reach me at **shrutikapadia30@gmail.com**
 
 - ⚡ Fun fact: **I'm always hungry**, **Hunger To travel 😁**, **I'm funny HAHA 😜**, **Passionate about life & always up for taking on news skills & adventure**
-
+<br>
 <h1>My Social Media Handles</h1>
 
 <div id="badges" align="left">
@@ -45,5 +46,6 @@
   </div>
 </div>
 
+<br>
 
 
