@@ -21,29 +21,29 @@
 <h1>My Social Media Handles</h1>
 
 <div id="badges" align="left">
-  <img align="left" width="270" src="https://github.com/shrutikapadia/shrutikapadia/blob/main/image_processing20210911-29373-1r7yggl.gif">
+  <img align="left" width="400" height="300" src="https://github.com/shrutikapadia/shrutikapadia/blob/main/giphy.gif">
  <div align="center"> <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <br>
+   <br>
+   <img width="150" height="40" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
   <a href="https://www.pinterest.ca/shrutikapadia30/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" width="100" height="28" alt="Pinterest Badge"/>
-  </a><br>
+    <img width="150" height="40" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" width="100" height="28" alt="Pinterest Badge"/>
+  </a>
   <a href="instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img width="150" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a><br>
   <a href="LeetCode">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+    <img width="150" height="40" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="Twitter">
+    <img width="70" height="40" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt="Twitter Badge"/>
   </a><br>
   <a href="Twitter">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt="Twitter Badge"/>
+    <img width="130" height="40"src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white alt="Twitter Badge"/>
   </a><br>
-  <a href="Twitter">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white alt="Twitter Badge"/>
-  </a><br>
-   
   </div>
 </div>
 
-<h1>Skills and Technologies</h1>
 
 
