@@ -21,7 +21,7 @@
 <h1>My Social Media Handles</h1>
 
 <div id="badges" align="left">
-  <img align="left" width="270" src="https://github.com/shrutikapadia/Shruti-K/blob/main/image_processing20210911-29373-1r7yggl.gif">
+  <img align="left" width="270" src="https://github.com/shrutikapadia/shrutikapadia/blob/main/image_processing20210911-29373-1r7yggl.gif">
   <a href="https://www.linkedin.com/in/shruti-kapadia-280592192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
