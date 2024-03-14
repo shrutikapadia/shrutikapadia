@@ -52,6 +52,7 @@
   </div>
 </div>
 <br>
+<br>
 
 <h1 align="left">Softwares and Languages</h1>
 
